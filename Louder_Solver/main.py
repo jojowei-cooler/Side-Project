@@ -31,7 +31,7 @@ def get_data():
     number = (float(views.text))
     print(number)
 
-    return bool(number > 90)
+    return bool(number > 100)
 
 # main function
 def main():
