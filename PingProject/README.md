@@ -24,3 +24,10 @@ Implementation of ping in Python 3.x using raw sockets.
 ## Note
 > "-h" has the highest priority  
 > "-t" priority is higher than "-n"  
+
+## Enhancement In Future
+> "-q" quiet, only print the last result  
+> "-v" verbose, print all message in ICMP packet  
+> "-l", print statistics in a cycle  
+> "-6", IPv6 in ubuntu  
+> GUI  
